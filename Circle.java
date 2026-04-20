@@ -6,5 +6,6 @@ public class Circle {
 	System.out.println("Hello");
 
 	radius = 30;
+int length = radius + 25;
 }
 
